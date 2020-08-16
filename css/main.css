@@ -8,6 +8,7 @@
   padding: 15px;
 }
 .row::after {
+  margin: auto;
   content: "";
   clear: both;
   display: table;
