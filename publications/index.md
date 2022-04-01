@@ -6,7 +6,7 @@ layout: publications
 
 ## Full Conference Papers
 * Noisy Label Learning for Security Defects (2022)  
-__Roland Croft__, M. Ali Babar, Huaming Chen
+__Roland Croft__, M. Ali Babar, Huaming Chen  
 _In Proceedings of the 19th International Conference on Mining Software Repositories (MSR)_  
 [[PDF]({{ site.url }}/assets/publications/MSR_22.pdf)]  
 
