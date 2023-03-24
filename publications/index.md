@@ -8,12 +8,12 @@ layout: publications
 * Data Quality for Software Vulnerability Datasets (2023)  
 __Roland Croft__, M. Ali Babar, Mehdi Kholoosi  
 _In Proceedings of the 45th International Conference on Software Engineering (ICSE)_  
-[[PDF]({{ site.url }}/assets/publications/ICSE_23.pdf)]  
+[[PDF]({{ site.url }}/assets/publications/ICSE_23.pdf)] [[GitHub](https://github.com/RolandCroft/Software-Vulnerability-Data-Quality)]   
 
 * Noisy Label Learning for Security Defects (2022)  
 __Roland Croft__, M. Ali Babar, Huaming Chen  
 _In Proceedings of the 19th International Conference on Mining Software Repositories (MSR)_  
-[[PDF]({{ site.url }}/assets/publications/MSR_22.pdf)] [[GitHub](https://github.com/RolandCroft/Noisy-Label-Learning-for-Security-Defects)]  
+[[PDF]({{ site.url }}/assets/publications/MSR_22.pdf)] [[Video](https://www.youtube.com/watch?v=LPeMjo8dUIw)] [[GitHub](https://github.com/RolandCroft/Noisy-Label-Learning-for-Security-Defects)]  
 
 * An Investigation into Inconsistency of Software Vulnerability Severity across Data Sources (2022)  
 __Roland Croft__, M. Ali Babar, Li Li  
