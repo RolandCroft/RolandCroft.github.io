@@ -7,13 +7,13 @@ google_analytics: UA-175517802-1'
 # Author
 author:
   name: Roland Croft
-  desc: Researcher, Data Scientist, Software Engineer
+  desc: Researcher, Applied Scientist, Software Engineer
   email: 
   selfie: assets/img/profile1.JPG
 
 # social
 social:
-  email: true
+  email: false
   behance:
   bitbucket:
   dribbble:
